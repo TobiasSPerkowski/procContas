@@ -14,7 +14,7 @@ Ler um arquivo contendo registros de contas bancárias, ordená-los por agência
 * Soma dos saldos das contas.
 * Exibição de relatório em tela.
 * Ordenação do arquivo por agência através de JCL.
-* Compilação e execução em ambiente TK4/MVS.
+* Compilação e execução em ambiente TK5/MVS.
 
 ## Estrutura do Projeto
 
